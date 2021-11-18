@@ -79,6 +79,9 @@ header {
     .main .caracteristicas .caracteristica .parrafo {
       margin-bottom: 30px;
       line-height: 28px; }
+    .main .caracteristicas .tabla{
+      padding: 20px 20px;
+    }
 .main .fotos {
   margin-bottom: 70px; }
   .main .fotos .foto {

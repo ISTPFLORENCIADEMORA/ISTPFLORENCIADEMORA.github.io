@@ -182,11 +182,16 @@ header .menu {
       padding: 0.62em 0.9375em;
       font-size: 1.125em;
       line-height: 1.125em; }
+      .main .paginacion ul li .edit{
+        background: #7780da;
+        text-decoration: none;
+      }
     .main .paginacion ul li a {
       background: #21e4e4;
       color: #fff;
       line-height: 1.125em;
       display: inline-block;
+      text-decoration: none;
       padding: 0.62em 0.9375em; }
       .main .paginacion ul li a:hover {
         background: #7780da;
